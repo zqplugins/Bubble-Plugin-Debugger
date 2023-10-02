@@ -1,0 +1,30 @@
+{
+    "category": "plugins",
+    "display": "Show on debugger",
+    "fields": {
+        "AAD": {
+            "caption": "message_content",
+            "doc": "Testing message",
+            "editor": "DynamicValue",
+            "name": "message_content",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "type",
+            "default_val": "❌",
+            "editor": "Dropdown",
+            "name": "type",
+            "options": "❌,⚠️,💬",
+            "rank": 1
+        },
+        "AAP": {
+            "caption": "debugger_size (px)",
+            "default_val": 350,
+            "editor": "StaticNumber",
+            "name": "debugger_size",
+            "rank": 2
+        }
+    },
+    "type": "client_side"
+}

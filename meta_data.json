@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "mobile"
+    },
+    "demo_page": "https://bubble.io/page?name=index&id=debugger-application&test_plugin=1662549862668x340216089406079000",
+    "description": "Call the debugger anytime anywhere in your workflow actions. The debugger view can be easily toggled\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1663338919156x864517135484310100/19-magnifier-zoom-search-flat.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Debugger",
+    "plugin_instructions": "1 - Install de debugger\n2 - Use it on actions!",
+    "sa_node_version": 14
+}
